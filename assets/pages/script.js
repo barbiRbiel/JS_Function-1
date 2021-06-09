@@ -12,10 +12,10 @@ if(par){
 }
 
 function mostrarOk(){
-    console.log("Es par");
+    alert("Es par");
 }
 function mostrarError(){
-    console.log(" No es par ")
+    alert(" No es par ")
 }
 
 numeroEsPar()
